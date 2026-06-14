@@ -2,19 +2,114 @@
 
 [![Karan Vishwakarma profile views](https://u8views.com/api/v1/github/profiles/187799464/views/day-week-month-total-count.svg)](https://u8views.com/github/KaranVishwakarma-1807)
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:00c6ff,100:0072ff&text=Karan%20Vishwakarma&fontSize=48&fontColor=fff&animation=None&fontAlignY=35&desc=Undergrad%20Aspiring%20Software%20Engineer%20&descSize=18&descAlignY=55&textBg=false" width="100%"/>
 
-## Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/karanvishwakarma0718) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/karan-vishwakarma-7872642a5) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vishwakarmakaran625@gmail.com) 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Keep%20Smiling%2C%20Keep%20Learning" alt="Typing introduction" />
+</p>
 
-#  Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=plastic&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=plastic&logo=jinja&logoColor=black) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![P5js](https://img.shields.io/badge/p5.js-ED225D?style=plastic&logo=p5.js&logoColor=FFFFFF) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=plastic&logo=socket.io&badgeColor=010101) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Jellyfin](https://img.shields.io/badge/jellyfin-%23000B25.svg?style=plastic&logo=Jellyfin&logoColor=00A4DC) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black) ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=plastic&logo=Itch.io&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=plastic&logo=godot-engine)
-# GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=KaranVishwakarma-1807&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=KaranVishwakarma-1807&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=KaranVishwakarma-1807&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!-- <p align="center">
+  <a href="https://komarev.com/ghpvc/?username=KaranVishwakarma-1807">
+    <img src="https://komarev.com/ghpvc/?username=KaranVishwakarma-1807&label=Profile%20views&color=00FFFF&style=flat-square" alt="KaranVishwakarma-1807's profile views" />
+  </a>
+</p> -->
 
-###  Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
----
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## My Focus Areas
+- Backend
+- Web Development
+- AI/CV Application
+- Cloud Deployment
+- Creative Coding
+- Game Development
+
+
+## GitHub Stats
+<p align="center">
+  <a href="https://github.com/KaranVishwakarma-1807">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KaranVishwakarma-1807&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="KaranVishwakarma-1807's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=KaranVishwakarma-1807&theme=dark&hide_border=true&cache_seconds=86400" alt="KaranVishwakarma-1807's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=KaranVishwakarma-1807&theme=dark&radius=10" alt="KaranVishwakarma-1807's Activity Graph" />
+</p>
+
+
+## Languages & Tools
+
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />
+
+</p>
+
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" />
+
+</p>
+
+<h3 align="center">Backend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" alt="Flask" width="40" />
+
+</p>
+
+<h3 align="center">Database</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" />
+
+</p>
+
+<h3 align="center">DevOps & Cloud</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" />
+
+</p>
+
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />
+
+</p>
+
+<p align="center">
+  <a href="https://github.com/KaranVishwakarma-1807">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KaranVishwakarma-1807&langs_count=8&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
+
+## 🔗 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/karan-vishwakarma-7872642a5">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://wa.me/9107454999700">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:vishwakarmakaran625@gmail.com">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://karanvishwakarma-1807.github.io/My_Portfolio/">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+</div>
