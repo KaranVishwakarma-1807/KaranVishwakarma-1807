@@ -30,7 +30,7 @@
   <a href="https://github.com/KaranVishwakarma-1807">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KaranVishwakarma-1807&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="KaranVishwakarma-1807's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=KaranVishwakarma-1807&theme=dark&hide_border=true&cache_seconds=86400" alt="KaranVishwakarma-1807's GitHub Streak" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=KaranVishwakarma-1807&theme=dark&hide_border=true" alt="KaranVishwakarma-1807's GitHub Streak" width="49%" />
 </p>
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=KaranVishwakarma-1807&theme=dark&radius=10" alt="KaranVishwakarma-1807's Activity Graph" />
